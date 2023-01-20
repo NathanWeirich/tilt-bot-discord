@@ -1,5 +1,18 @@
 # tilt-bot-discord
+Contador de tilt do discord do nathanzinho
 
-contador de tilt do discord
+# How to run
+## Install dependencies
+````
+npm install
+````
 
-discord api
+## To update your commands in a global way:
+````
+node deploy-commands
+````
+
+## To run
+````
+npm start
+````
